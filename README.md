@@ -7,7 +7,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
   <br>
-  <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=java&logoColor=white" />
+  <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <br>
