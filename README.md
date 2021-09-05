@@ -9,8 +9,9 @@
   <br>
   <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <br>
+  <img alt="elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-005571?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <h3>경력 기술서</h3>
