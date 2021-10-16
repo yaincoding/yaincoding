@@ -17,4 +17,4 @@
 <h3>경력 기술서</h3>
 
 경력 기술서는 노션에서 확인하실 수 있습니다. >> 
-[**노션(notion) 경력 기술서**](https://www.notion.so/yaincoding/f7591e62b5fd40c78e35711f44f1252a)
+[**노션(notion) 경력 기술서**](https://yaincoding.notion.site/f7591e62b5fd40c78e35711f44f1252a)
